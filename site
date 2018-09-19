@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+	<script
+			  src="https://code.jquery.com/jquery-3.3.1.min.js"
+			  integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+			  crossorigin="anonymous">
+			  	
+	</script>
+</head>
+<body>
+<div class ="contenu">
+	<div class="head">
+		<h1>lflflflflflf</h1>
+		<img src="images/POL_maquette_ACTUALITES_15.jpg" id="slider">
+	</div>
+
+<nav id="nav1">
+	<ul id="menu">
+		<li><a href="index.html"><img src="images/icone/home.png" width="50" height="50" alt="icone" ></a></li>
+		<li><a href="catalogue.html"><img src="images/icone/livre.png" width="50" height="50" alt="icone" ></a></li>
+		<li><a href="#"><img src="images/icone/media.png" width="50" height="50" alt="icone" ></a></a></li>
+		<li><a href="#"><img src="images/icone/agenda.png" width="50" height="50" alt="icone" ></a></li>
+	</ul>
+	<ul id ="men">
+		<li><a href="#"><img src="images/icone/icon_facebook.png" width="15" height="15" alt="icone" ></a></li>
+		<li><a href="#"><img src="images/icone/icon_twitter.png" width="15" height="15" alt="icone" ></a></li>
+		<li><a href="#"><img src="images/icone/icon_instagram.png" width="15" height="15" alt="icone" ></a></li>
+		<li><a href="#"><img src="images/icone/icon_youtube.png" width="15" height="15" alt="icone" ></a></li>
+	</ul>
+
+</nav>
+<nav id="nav2">
+	</nav>
+
+<div id="div-gauche">
+	
+</div>
+
+<div id="div-droite">
+	
+</div>
+<div id="div-droite2">
+	</div>
+CONTENU DROIT
+</div>
+<script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.3.1.min.js"></script>
+<!--<script src="lib/greensock-js/src/minified/TweenMax.min.js"></script>
+<script src="js/script.js"></script>
+-->
+</body>
+</html>
